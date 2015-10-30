@@ -1,0 +1,27 @@
+{
+  "name": "collides",
+  "version": "0.0.0",
+  "description": "Collisions made simple",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nihey/collides.js.git"
+  },
+  "keywords": [
+    "collides",
+    "collision",
+    "collide"
+  ],
+  "author": "Nihey Takizawa <nihey.takizawa@gmail.com>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/nihey/collides.js/issues"
+  },
+  "homepage": "https://github.com/nihey/collides.js",
+  "devDependencies": {
+    "eslint": "^1.6.0"
+  }
+}
