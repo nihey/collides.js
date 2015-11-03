@@ -1,6 +1,6 @@
 {
   "name": "collides",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convex polygon collision detection",
   "main": "./dist/collides.min.js",
   "scripts": {

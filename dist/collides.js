@@ -109,8 +109,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	  /* Returns a perpendicular vector to the input */
 	  perpendicular: function perpendicular(vector) {
 	    return {
-	      x: vector.x,
-	      y: -vector.y
+	      x: -vector.y,
+	      y: vector.x
 	    };
 	  },
 	
